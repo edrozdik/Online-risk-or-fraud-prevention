@@ -57,9 +57,9 @@ Based on the due diligence findings, it is recommended to proceed cautiously.
 Further in-depth research is needed to verify Golden Lighting Loan's financial stability, adherence to regulatory requirements, and ethical business practices.   
 Until these aspects are confirmed, entering into a partnership carries significant reputational and operational risks.
 
-## Task 3
+## Task 3  
 
-**Description of the Task 3**
+**Description of the Task 3**  
 Yerkish is an artificial language developed for use by non-human primates. It employs a keyboard whose keys contain lexigrams, symbols corresponding to objects or ideas (unlike letters or signs that represent sounds, a lexigram is a graphic design which represents a word but is not necessarily indicative of the object to which it refers).  
 As part of an effort to mitigate risks, you were asked to help in building a Yerkish computer model to detect money laundering typologies.  
 Your endeavor is to design lexigrams of fraudulent behavioral patterns. Each lexigram will describe a fraudulent MO/typology/pattern and would be comprised as a set of 3-5 data discrepancies.  
